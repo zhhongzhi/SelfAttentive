@@ -1,3 +1,5 @@
+# Some of the functions are attributed to 
+# https://github.com/pytorch/examples/tree/master/word_language_model
 import torch
 from torch.autograd import Variable
 
